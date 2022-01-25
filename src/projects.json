@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Nudge",
+        "image": "./assets/skyscrapers_640.jpg",
+        "tech": "API"
+    },
+    {
+        "id": 2,
+        "title": "Awesome Organic",
+        "image": "./assets/woodpanel_640.jpg",
+        "tech": "API"
+    }
+]
