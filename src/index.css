@@ -40,7 +40,7 @@ li {
 }
 
 strong {
-  font-size: larger;
+  font-size: 30px;
   color: cadetblue;
   text-align: left;
   margin-right: 30px;
@@ -67,6 +67,26 @@ strong {
   overflow: hidden;
   text-align: center;
   background-image: url(../src/assets/woodpanel_640.jpg);
+}
+.card > .img-container-3 {
+  height: 60%;
+  overflow: hidden;
+  text-align: center;
+  background-image: url(../src/assets/wing_640.jpg);
+}
+
+.card > .img-container-4 {
+  height: 60%;
+  overflow: hidden;
+  text-align: center;
+  background-image: url(../src/assets/tunnel_640.jpg);
+}
+
+.card > .img-container-5 {
+  height: 60%;
+  overflow: hidden;
+  text-align: center;
+  background-image: url(../src/assets/wall_640.jpg);
 }
 
 .card > .content > ul {
