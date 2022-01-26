@@ -10,7 +10,7 @@ const About = () => (
         I am an amateur in code scripting, and many of my works are currently in
         progress of learning.
         <br />I was born, educated, and merried in Tokyo. Located home in Texas
-        25+ years ago with my family. I am a mother, and a cats lover.
+        25+ years ago with my family.
       </p>
     </div>
   </section>
