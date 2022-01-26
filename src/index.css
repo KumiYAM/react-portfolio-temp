@@ -72,3 +72,36 @@ strong {
 .card > .content > ul {
   list-style-type: none;
 }
+
+.download {
+  font-size: 50px;
+  color: black;
+}
+
+.download:hover {
+  color: darkblue;
+}
+
+.fe-container {
+  float: left;
+  margin-left: 20%;
+}
+
+.be-container {
+  float: right;
+  margin-right: 20%;
+}
+
+.frontend {
+  font-size: 35px;
+}
+
+.backend {
+  display: block;
+  font-size: 35px;
+  float: center;
+}
+
+li {
+  font-size: xx-large;
+}

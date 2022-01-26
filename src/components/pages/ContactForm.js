@@ -93,6 +93,7 @@ function ContactForm() {
           <button data-testid="button" type="submit">
             Submit
           </button>
+          <div>(!currently disabled!)</div>
         </form>
       </div>
     </section>
