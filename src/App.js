@@ -1,5 +1,7 @@
-import React from 'react'
+import React from "react";
 import PortfolioContainer from "./components/PortfolioContainer";
+//import Footer from "./components/Footer";
+
 //import Project from "../src/components/pages/Project"
 //import projects from  './projects.json'
 
@@ -8,11 +10,11 @@ import PortfolioContainer from "./components/PortfolioContainer";
 //import Nav from './components/NavTabs';
 
 //function App() {
-  //return (
-    //<div className="App">
-      //<Nav/>
-    //</div>
-  //);
+//return (
+//<div className="App">
+//<Nav/>
+//</div>
+//);
 //}
 /*
 function App() {
@@ -44,5 +46,3 @@ function App() {
 const App = () => <PortfolioContainer />;
 
 export default App;
-
-
