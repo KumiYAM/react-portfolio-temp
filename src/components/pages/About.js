@@ -6,11 +6,11 @@ const About = () => (
     <div>
       <h2>About Me</h2>
       <p>
-        inibus est at efficitur. Praesent sed congue diam. Integer gravida dui mauris,
-        ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus porta. Nam
-        quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed rhoncus mollis
-        diam, sit amet facilisis lectus blandit at.
+        UT Austin Coding Boocamp Student: July, 2021 to January, 2022. <br />
+        I am an amateur in code scripting, and many of my works are currently in
+        progress of learning.
+        <br />I was born, educated, and merried in Tokyo. Located home in Texas
+        25+ years ago with my family. I am a mother, and a cats lover.
       </p>
     </div>
   </section>
