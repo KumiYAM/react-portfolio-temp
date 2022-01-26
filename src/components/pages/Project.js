@@ -134,6 +134,76 @@ const Projects = () => (
         </ul>
       </div>
     </div>
+    <div className="card">
+      <div className="img-container-3"></div>
+      <div className="content">
+        <ul>
+          <li>
+            <strong>Awsome Organic</strong>
+          </li>
+          <li>
+            <strong>SQL</strong>
+          </li>
+          <li>
+            <a href="https://github.com/KumiYAM/awsome-organics-gp2.git">
+              Github Repo
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://awsomeorganics.herokuapp.com"
+              className="link-my-3rd"
+            >
+              Site Link
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div className="card">
+      <div className="img-container-4"></div>
+      <div className="content">
+        <ul>
+          <li>
+            <strong>"TeamProG10"</strong>
+          </li>
+          <li>
+            <strong>html/css</strong>
+          </li>
+          <li>
+            <a href="https://github.com/KumiYAM/TeamProG10.git">Github Repo</a>
+          </li>
+          <li>
+            <a href="" className="link-my-4th"></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div className="card">
+      <div className="img-container-5"></div>
+      <div className="content">
+        <ul>
+          <li>
+            <strong>React Portfolio - minimal template</strong>
+          </li>
+          <li>
+            <strong>React</strong>
+          </li>
+          <li>
+            <a href="https://kumiyam.github.io/react-portfolio-temp/">
+              Github Repo
+            </a>
+          </li>
+          <li>
+            <a href="" className="link-my-5th">
+              Site Link
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
   </section>
 );
 // retrn(
