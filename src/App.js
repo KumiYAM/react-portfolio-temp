@@ -43,6 +43,12 @@ function App() {
   </wrapper>
 }
 */
-const App = () => <PortfolioContainer />;
+const App = () => {
+  return (
+    <div>
+      <PortfolioContainer />;
+    </div>
+  );
+};
 
 export default App;
